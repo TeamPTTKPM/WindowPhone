@@ -1,0 +1,49 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Dr">
+	<OpenFiles
+		CID = "1"
+		LastActive = "2">
+		<File
+			FileID = "CAD541DC-4588-4CC3-BC2B6CB5279CAA8C"
+			RootPath = "$Container"
+			RelativePathname = "SplashScreen.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C1B67B5D-4F27-42A2-BF88D508D421ABCE"
+			RootPath = "$Container"
+			RelativePathname = "OptionScreen.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "9346FAA5-2325-4EBB-8ED743745B81308E"
+			RootPath = "$Container"
+			RelativePathname = "HelpScreen.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "55B512A9-678C-4EC2-8E96A2ADBC95DEBF"
+			RootPath = "$Container"
+			RelativePathname = "AboutScreen.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "F901232F-ECA2-4BC1-B306F1BAEAA0B6FB"
+			RootPath = "$Container"
+			RelativePathname = "GameOverDialog.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "7E6D780C-143C-47C5-A22BD475C3B6A397"
+			RootPath = "$Container"
+			RelativePathname = "PopupMenu.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "68BA27A9-BF73-4EBD-A7CAED9301CA5B19"
+			RootPath = "$Container"
+			RelativePathname = "MenuScreen.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "8CB35358-A0F4-4819-A10E926372337AB1"
+			RootPath = "$Container"
+			RelativePathname = "PlayScreen.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

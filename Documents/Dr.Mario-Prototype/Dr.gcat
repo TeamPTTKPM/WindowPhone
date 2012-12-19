@@ -1,0 +1,52 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "291279D2-D502-4B6E-81BC5FAED7F8E534"
+			RelativePath = "images\Clip001.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "images\Clip001.png"/>
+		<FileInfo
+			ID = "55B512A9-678C-4EC2-8E96A2ADBC95DEBF"
+			RelativePath = "AboutScreen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "AboutScreen.gui"/>
+		<FileInfo
+			ID = "68BA27A9-BF73-4EBD-A7CAED9301CA5B19"
+			RelativePath = "MenuScreen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "MenuScreen.gui"/>
+		<FileInfo
+			ID = "7E6D780C-143C-47C5-A22BD475C3B6A397"
+			RelativePath = "PopupMenu.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "PopupMenu.gui"/>
+		<FileInfo
+			ID = "8CB35358-A0F4-4819-A10E926372337AB1"
+			RelativePath = "PlayScreen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "PlayScreen.gui"/>
+		<FileInfo
+			ID = "9346FAA5-2325-4EBB-8ED743745B81308E"
+			RelativePath = "HelpScreen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "HelpScreen.gui"/>
+		<FileInfo
+			ID = "C1B67B5D-4F27-42A2-BF88D508D421ABCE"
+			RelativePath = "OptionScreen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "OptionScreen.gui"/>
+		<FileInfo
+			ID = "CAD541DC-4588-4CC3-BC2B6CB5279CAA8C"
+			RelativePath = "SplashScreen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SplashScreen.gui"/>
+		<FileInfo
+			ID = "F901232F-ECA2-4BC1-B306F1BAEAA0B6FB"
+			RelativePath = "GameOverDialog.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "GameOverDialog.gui"/>
+	</Files>
+</Catalogue>
